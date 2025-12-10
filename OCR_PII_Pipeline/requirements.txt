@@ -1,0 +1,9 @@
+opencv-python
+easyocr
+spacy
+numpy
+matplotlib
+pillow
+torch
+torchvision
+torchaudio

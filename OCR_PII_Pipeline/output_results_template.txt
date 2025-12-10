@@ -1,0 +1,70 @@
+Image: page_35.jpg
+EXTRACTED TEXT:
+INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL
+Patient Name: Santosh Pradhan Age: 36Y Sex: M
+IPD No: 4236472833 UHID No: 20250410145 Bed No: 10
+DATE & TIME PROGRESS NOTES TREATMENT/ADVICE SIGNATURE OF DOCTOR
+16/04/25 Clinical Psychology
+On Observation - Wobbly gait
+- Murring of speech
+- Irrelevant talks
+- Att aroused but not maintained over period of time
+- Irritable toward family member
+- Agitation +
+On Interview - Blurring of vision, Loose motions, Body Ache, Heaviness of Head
+
+DETECTED PII:
+Names: ['Santosh Pradhan']
+Phones: ['4236472833']
+Emails: []
+
+------------------------------------------
+Image: page_30.jpg
+EXTRACTED TEXT:
+INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL
+Patient Name: Santosh Pradhan Age: 36Y Sex: M
+IPD No: 2236927833 UHID No: 20250410145 Bed No: 10
+Mental and behavioral disorder due to use of alcohol, dependence syndrome, currently using the substance
+Vitals:
+BP - 115/74 mmHg
+PR - 96 / min
+RR - 16 / min
+T - 97.6 F
+Rx:
+1) Inj Thiamine (200) in 100 ml NS TID
+2) Inj Lope2 (1 amp) slow IV BD and SOS
+3) Tab PAN (40) 1 vial IV DD B/BD
+4) Cap BIFILAC HP 1 cap BD
+5) Cap DEXORANGE 1 cap OD
+6) Syr HEPALY PLUS (1ml) BD
+7) THERB NOPHORE GEL 10 HA
+8) NICOGUM CHEWLET 2mg QID
+
+DETECTED PII:
+Names: ['Santosh Pradhan']
+Phones: ['2236927833']
+Emails: []
+
+------------------------------------------
+Image: page_14.jpg
+EXTRACTED TEXT:
+PLAN OF CARE
+Investigation Advised:
+CBC, KFT, LFT, S-electrolytes, UHH, ECG, SGOT/SGPT, GGT, T3,T4,TSH, PPBS/FBG, NCCT Brain, UDS
+Treatment Advised:
+1) Inj Thiamine (200) 100 ml NS TID
+2) Inj Lope2 (1 amp) slow IV TDS SOS
+3) Inj PAN (40) 1 vial IV OD B/BD
+4) Tab TAXIM-O (200) 1 tab BD
+5) Cap BIFILAC HP 1 cap BD
+6) Cap DEXORANGE 1 cap OD
+7) Syr HEPALY PLUS 1 ml BD
+8) Tab NALTINYA 1 tab OD
+Resident Signature: Dr. Arup Prusty, Dr. Utpamaya Mohapatra
+
+DETECTED PII:
+Names: ['Dr. Arup Prusty', 'Dr. Utpamaya Mohapatra']
+Phones: []
+Emails: []
+
+------------------------------------------
